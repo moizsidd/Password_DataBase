@@ -1,2 +1,2 @@
 # Password_DataBase
-Local Password Data Base
+Simple application used to locally store websites and associated passwords.
